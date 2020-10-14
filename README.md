@@ -8,7 +8,6 @@ Today I Learned
 > `JS`기초 마스터, `md`익숙해지기
 
 - 자바스크립트 기초는 NOMAD-CODING (초급/Chrome) 완강
-- 
 - 프로그래머스 js 기초 연습 완강
 
 ### 11월
