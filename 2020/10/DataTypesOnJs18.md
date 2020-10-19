@@ -29,15 +29,18 @@ const what = 55.1;
 ## `string(텍스트)`
 JS문법에서는 "" 이렇게 선언한다 
 
-## `Boolean이라는 true/false
+## `Boolean이라는 true/false`
 Boolean은 암기할필요없고 중요한거는 true/false이다.
 진실혹은거짓으로 바이너리 세계 에선(이진법) 모든것은 0or1이다 true는 1  false는 0 을 나타낸다. 중요한건 암기할필요없다 기억할거면 true/false만 기억하자.
 
-## Number
+## `Number`
 말 그대로 숫자
 
-## float
+## `float`
 이것도 말그대로 소수점 문법으로 , 가 아니라 . 이걸로 써야한다 ex) const 소수점 = 55.1; 이렇게 
+
+
+
 
 # TOMORROW
 - `노마드 코더` 강의듣고 배출연습
