@@ -12,15 +12,20 @@ const wed = "Wed"
 const thu = "Thu"
 const fri = "Fri"
 
-console.log(monday, tue , wed , thu , fri)
+console.log(monday, tue , wed , thu , fri);
 
-const daysOfWeek = ["monday","tue","wed","thu","fri","sat","sun"]
+const daysOfWeek = ["monday","tue","wed","thu","fri","sat","sun"];
 
-console.log(daysOfWeek)
+console.log(daysOfWeek);
 
-const daysOfWeek = ["monday","tue","wed","thu","fri","sat","sun"]
+const daysOfWeek = ["monday","tue","wed","thu","fri","sat","sun"];
 
-console.log(daysOfWeek[2])
+console.log(daysOfWeek[2]);
+
+const something = "something"
+const daysOfWeek = ["monday","tue","wed","thu","fri","sat","sun","lalalal",56,something];
+
+console.log(daysOfWeek);
 ```
 
 >#1.9 Oraganizing Data With Array 강의에서는  Array라는 데이터 정렬 방식을 배운다. Array는 데이터를 저장하는 곳인데 리스트처럼 저장하는곳이다.
