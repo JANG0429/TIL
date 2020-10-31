@@ -1,13 +1,7 @@
 body{
+background-color: greenyellow;
+}
 
-}
-.btn{
-cursor: pointer;
-}
 h1{
-color:darkblue;
-transition: color .5s ease-in-out;
-}
-.clicked{
-color:fuchsia ;
+color:darkorchid;
 }
