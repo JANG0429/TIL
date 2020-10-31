@@ -41,3 +41,12 @@ console.error("fuck");
 //2.
 const title = document.getElementById("title")
 title.innerHTML = "hi Js"
+```
+#  다시 정리해보자 2020.10.24
+>브라우저에서 우리에게 제공하는  더많은 다른 함수들이 있어 
+>리꼬가 하고자 하는방향은 사실 HTML을 다루는거야 
+>document는 object야  console.log(document)헤보자!!!!
+>자바스크립트는  나의 html에있는 모든 요소를 가지고 올거야 그리고 객체로 바꿀거야 ㅇㅋ 자!!!! 생각해보자! 
+> sungho에서 생성했던 object들 말이야 !!! name:"sungho" age:24 이런거 말이야  const sunghoInfo = {
+> }이렇게 했던것들 말이야 
+> 자바스크립트는  나의 html태그를 가져다가 객체로 만들거야 
