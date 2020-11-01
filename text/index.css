@@ -5,3 +5,12 @@ background-color: greenyellow;
 h1{
 color:darkorchid;
 }
+
+.form,
+.greetings
+{
+    display: none;
+}
+.showing{
+    display: block;
+}
