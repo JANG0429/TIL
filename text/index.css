@@ -1,16 +1,16 @@
 body{
-background-color: greenyellow;
+background-color: white;
 }
 
 h1{
-color:darkorchid;
+color:black;
 }
 
 .form,
-.greetings
-{
+.greetings{
     display: none;
 }
+
 .showing{
     display: block;
 }
